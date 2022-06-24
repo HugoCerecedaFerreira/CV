@@ -1,0 +1,42 @@
+body {
+  background-color: #EAF6F6;
+}
+
+.heading {
+  color: #66BFBF;
+  font-family: Cambria, Helvetica, serif;
+}
+
+h4 {
+  font-size: 1.5em;
+}
+
+p {
+ font-family: Verdana, Helvetica, sans-serif;
+}
+
+table {
+font-family: Verdana, Helvetica, sans-serif;
+}
+
+ul {
+font-family: Verdana, Helvetica, sans-serif;
+}
+
+ol {
+font-family: Verdana, Helvetica, sans-serif;
+}
+
+form {
+font-family: Verdana, Helvetica, sans-serif;
+}
+
+
+hr{
+ background-color: #EAF6F6;
+ border-style: dotted;
+ border-color: silver;
+ border-width: 10px;
+ border-bottom-style: none;
+ width: 4%;
+}
